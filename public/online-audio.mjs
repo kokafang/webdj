@@ -1,5 +1,5 @@
 import {extension} from './extension-client.mjs';
-export const RANGES={pitch:[-12,12,1],speed:[10,400,1],volume:[0,100,1],high:[-26,6,.5],mid:[-26,6,.5],low:[-26,6,.5]};
+export const RANGES={pitch:[-12,12,.01],speed:[10,400,1],volume:[0,100,1],high:[-26,6,.5],mid:[-26,6,.5],low:[-26,6,.5]};
 export class OnlineAudio{
   constructor(video,onError,letter){
     this.video=video;this.onError=onError;this.letter=letter;this.values={pitch:0,speed:100,volume:100,high:0,mid:0,low:0};this.pending=new Map();this.sending=false;

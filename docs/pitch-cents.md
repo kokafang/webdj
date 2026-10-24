@@ -1,0 +1,7 @@
+# Semitone and cents controls
+
+Approved change: add semitone −/+ and smaller cents −/+ controls to every Deck, preserving the current mixer. Each main step changes pitch by 100 cents; each fine step changes it by 1 cent. One canonical pitch value, rounded in integer cents for arithmetic, stays within −12 to +12 semitones. The display splits that value toward zero into whole semitones and signed remaining cents. Cents carry at 100; pitch reset clears both. The existing fader changes whole semitones while preserving the current cents remainder, bounded at ±12.
+
+Reuse the existing pitch DSP, which already supports fractional semitones. Relax audio adapters to 0.01-semitone precision. Keep known key names and their relative keys transposed by whole semitones, displaying any remaining cents alongside both names; do not turn unknown keys into guessed notes. Online buttons follow real audio capabilities and stay disabled until extension audio is connected. Keep controls compact, keyboard/touch accessible, and match the current white typography and transparent surfaces.
+
+Implementation: extend existing key-transpose module with tested cents arithmetic; add controls in each existing deck module and small CSS rules; verify audio dispatch, exact steps/carry/limits/reset, key display, deck independence and desktop/mobile layout. Update the application ZIP and the already-authorized public GitHub repository after checks. No new served runtime module or server restart required.

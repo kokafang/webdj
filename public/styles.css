@@ -425,3 +425,20 @@ main{padding-top:10px}
 }
 @media(prefers-reduced-motion:reduce){#crate .record{transition:none}#crate{animation:none}}
 @media(prefers-reduced-transparency:reduce){#crate{background:#e4eef5;backdrop-filter:none;-webkit-backdrop-filter:none}}
+
+/* Exact semitone steps with a smaller cent row; all faders stay aligned. */
+.deck .mixer{height:250px}
+.deck .fader-value{height:59px;flex-shrink:0}
+.deck .eq-stack{height:199px}
+.deck [data-field=pitch]{padding-inline:4px}
+.deck .pitch-value{width:100%;max-width:108px;flex-direction:column;gap:3px;justify-content:center}
+.pitch-step-row{display:grid;grid-template-columns:minmax(18px,1fr) minmax(26px,1.15fr) minmax(18px,1fr);align-items:center;gap:1px;width:100%;height:29px}
+.pitch-amount{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:1px;line-height:1;font-variant-numeric:tabular-nums}
+.deck .pitch-amount small{font-size:7px;line-height:1.1;color:#ffffffc9}
+.deck .pitch-step-row button{justify-self:center;width:28px;max-width:100%;height:28px;padding:0;border:.5px solid #ffffff32;border-radius:7px;background:#ffffff0c;color:#fff;font:17px/1 Arial;touch-action:manipulation}
+.deck .pitch-step-row button:hover:enabled{background:#ffffff24}
+.deck .pitch-step-row button:focus-visible{outline:1px solid #fff;outline-offset:2px}
+.pitch-fine{height:24px;font-size:11px}
+.deck .pitch-fine button{width:22px;height:23px;font-size:13px;border-color:#ffffff24;background:transparent}
+@media(min-width:1600px){.deck .mixer{height:268px}.deck .eq-stack{height:217px}}
+@media(max-width:680px){.deck .mixer{height:246px}.deck .eq-stack{height:195px}}

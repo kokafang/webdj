@@ -943,3 +943,9 @@ test('an unused prepared graph adopts the latest zero fader before a replacement
   assert.deepEqual(env.gains[1].gain.events.slice(-2), [['cancel', 0], ['set', 0, 0]], 'synchronize before rerouting without a loud fade');
   assert.equal(env.sourceCalls, 2); assert.equal(env.contexts.length, 2);
 });
+
+
+test('one-cent extension commands preserve fractional pitch independently of other audio controls',async()=>{
+ const env=environment();await env.command({op:'enable'});await env.command({op:'set-speed',speedPercent:125});await env.command({op:'set-volume',volumePercent:37});await env.command({op:'set-eq',band:'low',gainDb:-6});
+ for(const semitones of [.01,-.01,1.23,-1.23,11.99,0]){const s=await env.command({op:'set',semitones});assert.equal(s.ok,true);assert.equal(s.semitones,semitones);assert.equal(env.dsps[0].changes.at(-1),semitones);assert.equal(s.speedPercent,125);assert.equal(s.volumePercent,37);assert.equal(s.eq.low,-6);}
+});

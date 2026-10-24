@@ -3,6 +3,22 @@ const SHARPS=['C','C♯','D','D♯','E','F','F♯','G','G♯','A','A♯','B'];
 const FLATS=['C','D♭','D','E♭','E','F','G♭','G','A♭','A','B♭','B'];
 const mod12=value=>((value%12)+12)%12;
 
+// Integer-cent arithmetic prevents repeated 0.01 steps accumulating drift.
+export function splitPitch(value){
+  if(!Number.isFinite(value)||value < -12||value > 12)throw new RangeError('变调超出范围');
+  const total=Math.round(value*100);
+  return {semitones:Math.trunc(total/100)||0,cents:total%100||0};
+}
+export function stepPitch(value,cents){
+  splitPitch(value);
+  if(!Number.isInteger(cents))throw new RangeError('音分步进必须是整数');
+  return Math.max(-1200,Math.min(1200,Math.round(value*100)+cents))/100;
+}
+export function coarsePitch(value,semitones){
+  if(!Number.isInteger(semitones)||Math.abs(semitones)>12)throw new RangeError('半音超出范围');
+  return Math.max(-1200,Math.min(1200,semitones*100+splitPitch(value).cents))/100;
+}
+
 function transposeOne(key,semitones) {
   const camelot=/^(1[0-2]|[1-9])([AB])$/i.exec(key);
   if(camelot){

@@ -1,6 +1,6 @@
 import {OnlineAudio as DeckAudio} from './online-audio.mjs';
 import {OnlineMedia} from './online-media.mjs';
-import {transposeKey,describeKey} from './key-transpose.mjs';
+import {transposeKey,describeKey,splitPitch,stepPitch,coarsePitch} from './key-transpose.mjs';
 export const formatTime=s=>Number.isFinite(s)?`${Math.floor(s/60)}:${String(Math.floor(s%60)).padStart(2,'0')}`:'—';
 // Each half of the physical fader has its own scale, with normal speed at center.
 export function speedToPosition(percent){
@@ -28,12 +28,13 @@ export function makeDeck(letter,{onImport,onEdit,onDuration,onUrl,notify}) {
   function updateKey(){
     const original=track?.key?.trim()||'—';
     const shifted=audio.values.pitch!==0&&!['—','-'].includes(original);
-    const originalDetails=describeKey(original),details=describeKey(original,audio.values.pitch);
+    const tuning=splitPitch(audio.values.pitch),detune=tuning.cents?` ${tuning.cents>0?'+':''}${tuning.cents}c`:'';
+    const originalDetails=describeKey(original),details=describeKey(original,tuning.semitones);
     const originalLabel=originalDetails?.map(k=>k.label).join(' / ')||original;
-    const current=details?.map(k=>k.label).join(' / ')||(shifted?(transposeKey(original,audio.values.pitch)||'—'):original);
+    const current=details?.map(k=>k.label+detune).join(' / ')||(shifted?(transposeKey(original,tuning.semitones)||'—'):original);
     originalKey.textContent=originalLabel;originalKey.hidden=!shifted;keyArrow.hidden=!shifted;currentKey.textContent=current;
-    relativeKey.textContent=details?.map(k=>k.relative).join(' / ')||'';relativeKey.hidden=!details;
-    const relativeDescription=details?.map(k=>`${k.label}，关系${k.relativeMode==='Minor'?'小':'大'}调 ${k.relative}`).join('；')||'';
+    relativeKey.textContent=details?.map(k=>k.relative+detune).join(' / ')||'';relativeKey.hidden=!details;
+    const relativeDescription=details?.map(k=>`${k.label}${detune}，关系${k.relativeMode==='Minor'?'小':'大'}调 ${k.relative}${detune}`).join('；')||'';
     relativeKey.title=relativeDescription;
     keyButton.classList.toggle('transposed',shifted);
     keyButton.setAttribute('aria-label',`Deck ${letter} 调性，${shifted?`原调性 ${originalLabel}，当前调性 `:''}${relativeDescription||(current==='—'?'未确定':current)}`);
@@ -50,7 +51,13 @@ export function makeDeck(letter,{onImport,onEdit,onDuration,onUrl,notify}) {
     }
     if(c.knob)c.knob.style.setProperty('--angle',(value<=0?value/26*135:value/6*135)+'deg');
     if(c.number && document.activeElement!==c.number)c.number.value=value;
-    if(field==='pitch')updateKey();
+    if(field==='pitch'){
+      const tuning=splitPitch(value);c.input.value=tuning.semitones;c.out.textContent=display(field,tuning.semitones);
+      c.cents.textContent=(tuning.cents>0?'+':'')+tuning.cents;
+      c.input.setAttribute('aria-valuetext',`${tuning.semitones} 半音，${tuning.cents} cents`);
+      c.steps.forEach(button=>{button.disabled=c.input.disabled||stepPitch(value,Number(button.dataset.pitchStep))===value;});
+      updateKey();
+    }
   }
   function set(field,value) {try{audio.set(field,value);updateControl(field,value);}catch(e){notify(e.message);updateControl(field,audio.values[field]);}}
   for(const field of ['high','mid','low']) {
@@ -68,10 +75,15 @@ export function makeDeck(letter,{onImport,onEdit,onDuration,onUrl,notify}) {
   for(const field of ['pitch','speed','volume']) {
     const wrap=root.querySelector(`[data-field="${field}"]`),range={pitch:[-12,12,0],speed:[0,1000,500],volume:[0,100,100]}[field],initial=field==='speed'?100:range[2];
     wrap.innerHTML=`<div class="section-label">${names[field]}</div><div class="fader-value">${field==='speed'?`<input type="number" min="10" max="400" step="1" value="100" aria-label="Deck ${letter} 速度百分比">`:''}<output>${display(field,initial)}</output>${field==='pitch'?'<small>半音</small>':''}</div><div class="fader-track"><div class="fader-ticks" aria-hidden="true"></div><input type="range" min="${range[0]}" max="${range[1]}" value="${range[2]}" step="${field==='speed'?'any':'1'}" ${field==='speed'?'aria-valuemin="10" aria-valuemax="400"':''} aria-label="Deck ${letter} ${names[field]}"></div><button class="fader-reset">${field==='pitch'?'归零':field==='speed'?'原速':'100%'}</button>`;
+    if(field==='pitch'){
+      const value=wrap.querySelector('.fader-value');value.classList.add('pitch-value');
+      value.innerHTML=`<div class="pitch-step-row"><button type="button" data-pitch-step="-100" aria-label="Deck ${letter} 降低 1 半音">−</button><span class="pitch-amount"><output>0</output><small>semitone</small></span><button type="button" data-pitch-step="100" aria-label="Deck ${letter} 升高 1 半音">＋</button></div><div class="pitch-step-row pitch-fine"><button type="button" data-pitch-step="-1" aria-label="Deck ${letter} 降低 1 cent">−</button><span class="pitch-amount"><output class="pitch-cents">0</output><small>cents</small></span><button type="button" data-pitch-step="1" aria-label="Deck ${letter} 升高 1 cent">＋</button></div>`;
+    }
     const input=wrap.querySelector('input[type=range]'),number=wrap.querySelector('input[type=number]');
-    controls.set(field,{input,number,out:wrap.querySelector('output')});
+    controls.set(field,{input,number,out:wrap.querySelector('output'),cents:wrap.querySelector('.pitch-cents'),steps:[...wrap.querySelectorAll('[data-pitch-step]')]});
     updateControl(field,initial);
-    input.oninput=()=>set(field,field==='speed'?positionToSpeed(Number(input.value)):Number(input.value));wrap.querySelector('button').onclick=()=>set(field,initial);
+    input.oninput=()=>set(field,field==='speed'?positionToSpeed(Number(input.value)):field==='pitch'?coarsePitch(audio.values.pitch,Number(input.value)):Number(input.value));wrap.querySelector('.fader-reset').onclick=()=>set(field,initial);
+    for(const button of controls.get(field).steps)button.onclick=()=>set('pitch',stepPitch(audio.values.pitch,Number(button.dataset.pitchStep)));
     if(number){
       const commit=()=>{if(number.value===''||!number.validity.valid){notify('速度请输入 10–400 的整数');number.value=audio.values.speed;return;}set('speed',Number(number.value));};
       number.onchange=commit;number.onkeydown=e=>{if(e.key==='Enter'){e.preventDefault();commit();number.blur();}};
@@ -100,7 +112,7 @@ export function makeDeck(letter,{onImport,onEdit,onDuration,onUrl,notify}) {
   }
   root.querySelector('.mixer').setAttribute('inert','');root.querySelector('.mixer').classList.add('waiting');root.querySelector('.effects-reset').disabled=true;
   function capabilities(){
-    for(const [name,c]of controls){const allowed=!!track&&(video.processing||(['speed','volume'].includes(name)&&!!video.player?.getPlayerState));c.input.disabled=!allowed;if(c.number)c.number.disabled=!allowed;c.input.closest('.eq-row,.fader-section').classList.toggle('unavailable',!allowed);}
+    for(const [name,c]of controls){const allowed=!!track&&(video.processing||(['speed','volume'].includes(name)&&!!video.player?.getPlayerState));c.input.disabled=!allowed;if(c.number)c.number.disabled=!allowed;for(const b of c.steps||[])b.disabled=!allowed||stepPitch(audio.values.pitch,Number(b.dataset.pitchStep))===audio.values.pitch;c.input.closest('.eq-row,.fader-section').classList.toggle('unavailable',!allowed);}
     root.querySelector('.effects-reset').disabled=!video.processing;
     root.querySelector('[data-reset=eq]').disabled=!video.processing;
     root.querySelectorAll('.eq-zero').forEach(b=>b.disabled=!video.processing);
