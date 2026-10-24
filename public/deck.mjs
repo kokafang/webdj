@@ -111,4 +111,3 @@ export function makeDeck(letter,{onImport,onEdit,onDuration,onUrl,notify}) {
   function setAudience(value){audience=value;root.querySelector('.empty-video>span:last-child').textContent=value?'从唱片箱选择 ↗':'从唱片箱选择 ↗';root.querySelector('.key-button').disabled=value||!track;}
   return {root,video,load,updateMeta,setAudience,setSeekFade:value=>audio.setPlaybackFade(value),get track(){return track;}};
 }
-

@@ -8,4 +8,4 @@
 - [x] Implement browser library edits/imports and official iframe playback with generation guards; expose accurate audio capability states.
 - [x] Adapt the existing trusted-frame extension for four decks, current fader limits, frame snapshots and reverb sends; test validation and frame isolation.
 - [x] Verify browser desktop/mobile flows, About click-through, Crate, links, library persistence and extension behavior; document platform limits.
-- [ ] Inspect staged contents, run complete tests, create public kokafang/webdj repository and verify the pushed commit/visibility.
+- [x] Inspect staged contents, run complete tests, create public kokafang/webdj repository and verify the pushed commit/visibility.
