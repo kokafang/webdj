@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.DS_Store
+.env*
+.dev.vars
+output/
+.playwright-cli/
+*.log
+media/
+thumbnails/
+backups/
+data/
+*.zip
+*.tar.gz

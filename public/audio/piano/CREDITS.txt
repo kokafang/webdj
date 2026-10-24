@@ -1,0 +1,14 @@
+Salamander Grand Piano v3 — piano samples
+Author: Alexander Holm
+License: Creative Commons Attribution 3.0 Unported (CC BY 3.0)
+https://creativecommons.org/licenses/by/3.0/
+
+Original collection: https://archive.org/details/SalamanderGrandPianoV3
+Author / license: https://github.com/sfzinstruments/SalamanderGrandPiano
+MP3 distribution: https://github.com/Tonejs/audio/tree/master/salamander
+Downloaded 2026-10-23 from https://tonejs.github.io/audio/salamander/
+
+Files: C4.mp3, Ds4.mp3, Fs4.mp3, A4.mp3, C5.mp3
+The five MP3 files are redistributed unchanged. WebDJ plays nearby notes by
+changing playback rate and applies volume / release envelopes at runtime.
+These sample credits do not imply endorsement of WebDJ by the author.

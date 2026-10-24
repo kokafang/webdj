@@ -1,0 +1,42 @@
+{
+  "manifest_version": 3,
+  "name": "Jiafeng WebDJ Mixer",
+  "version": "1.0.0",
+  "description": "WebDJ 四个 Deck 的独立变调、变速、音量、EQ、混响与实时氛围光。",
+  "minimum_chrome_version": "124",
+  "permissions": [
+    "scripting",
+    "storage",
+    "webNavigation"
+  ],
+  "host_permissions": [
+    "http://127.0.0.1/*",
+    "http://localhost/*",
+    "https://kokafang.github.io/*",
+    "https://webdj-player-lab-jfg.jiafengfeng.chatgpt.site/*",
+    "https://www.youtube.com/*",
+    "https://www.youtube-nocookie.com/*",
+    "https://player.bilibili.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "action": {
+    "default_title": "连接 WebDJ Mixer"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://127.0.0.1/*",
+        "http://localhost/*",
+        "https://kokafang.github.io/webdj/*"
+      ],
+      "js": [
+        "host.js"
+      ],
+      "run_at": "document_idle",
+      "all_frames": false
+    }
+  ]
+}

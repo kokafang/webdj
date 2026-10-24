@@ -1,0 +1,44 @@
+.follow-trigger{flex:none;white-space:nowrap;font:600 11px/1.2 Arial,"PingFang SC",sans-serif;min-height:30px;padding:5px 9px;border:.5px solid #ffffff40;border-radius:18px;background:#ffffff60;box-shadow:0 2px 8px #24304a0c}
+.follow-trigger:hover{background:#fff9;border-color:#fffb}
+.follow-dialog{width:min(92vw,90vh,960px);width:min(92vw,90dvh,960px);max-width:calc(100vw - 24px);max-height:calc(100vh - 24px);max-height:calc(100dvh - 24px);padding:0;border:.5px solid #ffffff40;border-radius:18px;background:#fff;overflow:auto;box-shadow:0 24px 90px #1118}
+.follow-dialog::backdrop{background:#182034b0;backdrop-filter:blur(10px)}
+.follow-dialog-head{display:flex;align-items:center;justify-content:space-between;gap:12px;min-height:44px;padding:4px 10px 4px 16px;border-bottom:1px solid #ececf0;background:#fff}
+.follow-dialog-head h2{margin:0;font:600 13px/1.3 Arial,"PingFang SC",sans-serif;color:#303440}
+.follow-close{display:grid;place-items:center;width:34px;height:34px;padding:0;border:0;border-radius:50%;background:transparent;font-size:26px;line-height:1;color:#303440;box-shadow:none}
+.follow-close:hover{background:#eee}
+.follow-card-image{display:block;width:100%;height:auto;max-height:calc(100vh - 76px);max-height:calc(100dvh - 76px);object-fit:contain;background:#fff}
+.follow-error{padding:24px;margin:0}
+@media(max-width:370px){.follow-trigger{padding:5px 6px;min-height:28px;font-size:10px}.masthead:has(.follow-trigger){gap:6px}}
+
+.header-info{display:flex;align-items:center;gap:5px;flex:none}
+.about-trigger[aria-pressed=true]{background:#ffffffb0;border-color:#ffffff90;box-shadow:0 0 0 1px #52627b30}
+.about-surface,.about-surface *{pointer-events:none!important;user-select:none;-webkit-user-select:none}
+.about-surface{overflow:hidden;overscroll-behavior:none;scrollbar-width:none;font-family:Arial,"PingFang SC",sans-serif;font-weight:750;font-style:italic;font-synthesis:style;line-height:1.15;letter-spacing:-.035em}
+.about-surface::-webkit-scrollbar{display:none}
+.about-track{display:flex;align-items:center;width:max-content;height:100%;font:inherit;letter-spacing:inherit}
+.about-copy{flex:none;display:flex;align-items:center;width:max-content;min-height:100%;padding:0 .6em;font:inherit;letter-spacing:inherit}
+.about-copy p{flex:none;white-space:nowrap;margin:0;font:inherit;letter-spacing:inherit;color:inherit}
+.about-copy p+p{margin-left:.8em}
+.about-surface[data-mode=header]{align-self:stretch;flex:1 1 0%;min-width:0;font-size:clamp(20px,2.2vw,34px);color:#20232e}
+.masthead.about-in-header>.wordmark{display:none}
+.masthead.about-in-header #deck-bank-navigation{margin-inline:0}
+.about-surface[data-mode=screen]{position:fixed;inset:0;z-index:45;background:none;border:0;box-shadow:none;backdrop-filter:none;-webkit-backdrop-filter:none;font-size:clamp(144px,min(30vw,55dvh),480px);color:#fff;opacity:.42;text-shadow:0 2px 22px #10182b30}
+.about-settings{border-top:.5px solid var(--line);padding:16px 0 18px}
+.about-mode-options{display:grid;grid-template-columns:1fr 1fr;gap:8px;border:0;padding:0;margin:0}
+.about-mode-options legend{padding:0;margin-bottom:10px;font-size:13px;font-weight:600}
+.about-mode-options label{position:relative;display:block;cursor:pointer}
+.about-mode-options input{position:absolute;inset:0;width:100%;height:100%;margin:0;opacity:0;cursor:pointer}
+.about-mode-options span{display:block;padding:11px 8px;text-align:center;font-size:12px;border:.5px solid #7d8a9d55;border-radius:10px;background:#ffffff40}
+.about-mode-options input:checked+span{background:#dde8ef;color:#263c51;border-color:#5e7d9a;font-weight:600}
+.about-mode-options input:focus-visible+span{outline:2px solid #395773;outline-offset:3px}
+.about-motion-toggle{display:flex;align-items:center;justify-content:space-between;width:100%;margin-top:10px;padding:9px 2px;border:0;box-shadow:none;background:transparent;font-size:12px}
+.about-motion-toggle small{font-size:11px;color:var(--muted)}
+.about-motion-toggle:hover{background:#ffffff30;box-shadow:none}
+@media(max-width:680px){
+  .masthead:has(.header-info){gap:5px}
+  .masthead:has(.header-info) .wordmark{min-width:0;flex:0 1 auto;overflow:hidden;text-overflow:ellipsis}
+  .header-info{gap:3px}
+  .header-info .follow-trigger{padding:5px 7px;font-size:10px;min-height:32px}
+  .about-surface[data-mode=header]{font-size:23px}
+}
+@media(max-width:370px){.header-info .follow-trigger{padding-inline:5px}.masthead:has(.header-info){gap:4px}}

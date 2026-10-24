@@ -1,0 +1,32 @@
+html,body{overscroll-behavior-x:none}
+.decks.deck-banks{display:block;touch-action:pan-y pinch-zoom}
+.deck-bank-bar{display:flex;justify-content:center;align-items:center;min-height:46px;margin:0 0 10px;user-select:none}
+.deck-bank-tabs{display:flex;gap:4px;border:.5px solid #ffffff38;border-radius:22px;background:#ffffff45;padding:3px;box-shadow:0 3px 12px #1820350d;backdrop-filter:blur(15px)}
+.deck-bank-tabs button{min-width:84px;min-height:34px;padding:5px 16px;border:0;border-radius:18px;font-size:12px;font-weight:700;background:transparent;box-shadow:none}
+.deck-bank-tabs button[aria-pressed=true]{background:#f3ffd4ce;box-shadow:0 2px 7px #30471520;color:#26321a}
+.deck-pair{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:inherit}
+#selection-actions{flex-wrap:wrap}
+@media(max-width:680px){.deck-pair{grid-template-columns:minmax(0,1fr);gap:22px}.deck-bank-bar{margin-bottom:8px}.deck-bank-tabs button{min-height:38px}#selection-actions{justify-content:center;gap:6px}#selection-actions .load-deck{flex:1 0 calc(25% - 8px);min-width:65px;padding:9px 6px}#selection-actions .copy-link{flex-basis:100%}}
+
+
+/* Bank selection uses only the title-bar buttons. */
+#deck-bank-navigation{display:flex;align-items:center;flex:none;margin-inline:auto}
+.masthead .deck-bank-bar{min-height:0;margin:0}
+.masthead .deck-bank-tabs{gap:2px;padding:2px}
+.masthead .deck-bank-tabs button{min-width:68px;min-height:32px;padding:5px 12px;font-size:11px;white-space:nowrap}
+.masthead .header-actions{margin-left:0;flex:none}
+@media(max-width:680px){
+  .masthead{padding-inline:10px;gap:6px}
+  .masthead .wordmark{font-size:15px;letter-spacing:-.8px}
+  .masthead .wordmark span{font-size:21px;letter-spacing:-1px}
+  .masthead .deck-bank-tabs button{min-width:45px;min-height:32px;padding:5px 5px;font-size:10px}
+  .masthead .header-actions{gap:2px}
+  .masthead .header-actions #import-top,.masthead .header-actions .settings-button{width:30px;height:32px;min-height:32px}
+}
+@media(max-width:370px){
+  .masthead{padding-inline:6px}
+  .masthead .wordmark{font-size:12px;letter-spacing:-.6px}
+  .masthead .wordmark span{font-size:18px;letter-spacing:-.8px}
+  .masthead .deck-bank-tabs button{min-width:41px;padding-inline:3px;font-size:9px}
+  .masthead .header-actions #import-top,.masthead .header-actions .settings-button{width:28px}
+}

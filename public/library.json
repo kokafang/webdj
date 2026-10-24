@@ -1,0 +1,3008 @@
+{
+  "categories": [
+    {
+      "id": "crate-ac53ba11",
+      "name": "ASMR"
+    },
+    {
+      "id": "crate-2f4941f5",
+      "name": "Drums"
+    },
+    {
+      "id": "crate-b5a337cd",
+      "name": "Generator"
+    },
+    {
+      "id": "crate-310a9922",
+      "name": "Hip-hop 拼接"
+    },
+    {
+      "id": "crate-7ab59dc7",
+      "name": "Long Sets"
+    },
+    {
+      "id": "crate-a5b0eec5",
+      "name": "PAD"
+    },
+    {
+      "id": "crate-06ef6c60",
+      "name": "Songs"
+    },
+    {
+      "id": "crate-bd0dcb41",
+      "name": "世界·传统音乐"
+    },
+    {
+      "id": "crate-f83d4a58",
+      "name": "其他"
+    },
+    {
+      "id": "crate-5f07f706",
+      "name": "新古典"
+    },
+    {
+      "id": "crate-c68896c8",
+      "name": "蓝调·即兴床"
+    },
+    {
+      "id": "crate-a9cd017c",
+      "name": "雨夜"
+    },
+    {
+      "id": "crate-11a038be",
+      "name": "高能量"
+    },
+    {
+      "id": "crate-91337ec8",
+      "name": "plunderphonics"
+    }
+  ],
+  "tracks": [
+    {
+      "id": "youtube:vAphvRsSRKQ:1",
+      "platform": "youtube",
+      "videoId": "vAphvRsSRKQ",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=vAphvRsSRKQ",
+      "title": "FREE DRUMS LOOP - TRAP STYLE",
+      "key": "",
+      "description": "Trap 鼓循环，慢速节奏底床",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/vAphvRsSRKQ/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:vxLURvusYD4:1",
+      "platform": "youtube",
+      "videoId": "vxLURvusYD4",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=vxLURvusYD4",
+      "title": "100 Classic Hip Hop Drum Breaks",
+      "key": "",
+      "description": "经典 Hip-hop 鼓 break 合集",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/vxLURvusYD4/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:mqbND-EIlnE:1",
+      "platform": "youtube",
+      "videoId": "mqbND-EIlnE",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=mqbND-EIlnE",
+      "title": "Hip Hop Drum Loop",
+      "key": "",
+      "description": "Hip-hop 鼓循环，可叠说唱",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/mqbND-EIlnE/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:X_htOr83H5A:1",
+      "platform": "youtube",
+      "videoId": "X_htOr83H5A",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=X_htOr83H5A",
+      "title": "Free Drum and Bass Loop",
+      "key": "",
+      "description": "DnB 鼓循环，快速节奏底床",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/X_htOr83H5A/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:0qFqAla2PmI:1",
+      "platform": "youtube",
+      "videoId": "0qFqAla2PmI",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=0qFqAla2PmI",
+      "title": "UKG Drum Loops",
+      "key": "",
+      "description": "UKG 鼓循环，节奏拼接",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/0qFqAla2PmI/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:gz9-Kk_B3Qc:1",
+      "platform": "youtube",
+      "videoId": "gz9-Kk_B3Qc",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=gz9-Kk_B3Qc",
+      "title": "Bossa Nova Drum Loop",
+      "key": "",
+      "description": "Bossa Nova 鼓循环",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/gz9-Kk_B3Qc/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:iTXs8BopRkg:1",
+      "platform": "youtube",
+      "videoId": "iTXs8BopRkg",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=iTXs8BopRkg",
+      "title": "Middle East Loop - Malfuf",
+      "key": "",
+      "description": "Malfuf 中东节奏循环",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/iTXs8BopRkg/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:E3u9peCmTlE:1",
+      "platform": "youtube",
+      "videoId": "E3u9peCmTlE",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=E3u9peCmTlE",
+      "title": "909 Kick Bass Drum",
+      "key": "",
+      "description": "909 底鼓，单一低频节拍",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/E3u9peCmTlE/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:_GWnT3yrULs:1",
+      "platform": "youtube",
+      "videoId": "_GWnT3yrULs",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=_GWnT3yrULs",
+      "title": "FREE LO FI TRAP DRUM LOOP",
+      "key": "",
+      "description": "Lo-fi Trap 鼓循环",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/_GWnT3yrULs/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:4Sk7IAwh5a0:1",
+      "platform": "youtube",
+      "videoId": "4Sk7IAwh5a0",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=4Sk7IAwh5a0",
+      "title": "REVOLVR - Trap & Future Bass Drum Loops",
+      "key": "",
+      "description": "Trap / Future Bass 鼓循环合集",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/4Sk7IAwh5a0/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:cNK3rTCeRZc:1",
+      "platform": "youtube",
+      "videoId": "cNK3rTCeRZc",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=cNK3rTCeRZc",
+      "title": "HOUR LONG Double Bass Drum Loop",
+      "key": "",
+      "description": "双底鼓循环，1 小时节奏底床",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/cNK3rTCeRZc/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:TgJURGWA-eI:1",
+      "platform": "youtube",
+      "videoId": "TgJURGWA-eI",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=TgJURGWA-eI",
+      "title": "Basic Hardcore Drum Backing Track",
+      "key": "",
+      "description": "Hardcore 鼓伴奏，高速节拍",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/TgJURGWA-eI/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:QffVLs4jyeY:1",
+      "platform": "youtube",
+      "videoId": "QffVLs4jyeY",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=QffVLs4jyeY",
+      "title": "Metal Drum Track #9",
+      "key": "",
+      "description": "Metal 鼓轨，高速节奏底床",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/QffVLs4jyeY/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:g-yIf1huef8:1",
+      "platform": "youtube",
+      "videoId": "g-yIf1huef8",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=g-yIf1huef8",
+      "title": "Drums of War - Epic Drum 10 Hours",
+      "key": "",
+      "description": "史诗鼓声，10 小时长底床",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/g-yIf1huef8/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:ZagsLrNzg3I:1",
+      "platform": "youtube",
+      "videoId": "ZagsLrNzg3I",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=ZagsLrNzg3I",
+      "title": "林英哲 - 海の豊饒（和太鼓）",
+      "key": "",
+      "description": "林英哲和太鼓演出",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ZagsLrNzg3I/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:qUK1F0YJvrQ:1",
+      "platform": "youtube",
+      "videoId": "qUK1F0YJvrQ",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=qUK1F0YJvrQ",
+      "title": "Free Jazz Drums Solo!",
+      "key": "",
+      "description": "自由爵士鼓独奏，即兴节奏",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/qUK1F0YJvrQ/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:ndZ_qFCx0B8:1",
+      "platform": "youtube",
+      "videoId": "ndZ_qFCx0B8",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=ndZ_qFCx0B8",
+      "title": "林英哲 - 洗足田楽絵図",
+      "key": "",
+      "description": "林英哲打击乐演出",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ndZ_qFCx0B8/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:GoEZAS7qo18:1",
+      "platform": "youtube",
+      "videoId": "GoEZAS7qo18",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=GoEZAS7qo18",
+      "title": "第43回 打楽器アンサンブル定期演奏会",
+      "key": "",
+      "description": "打击乐合奏，多个节奏声部",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/GoEZAS7qo18/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:bPzC59AxV7k:1",
+      "platform": "youtube",
+      "videoId": "bPzC59AxV7k",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=bPzC59AxV7k",
+      "title": "Trio per Uno トリオ ペル ウーノ",
+      "key": "",
+      "description": "打击乐三重奏，多声部节奏",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/bPzC59AxV7k/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:Ofn2A1p13Sg:1",
+      "platform": "youtube",
+      "videoId": "Ofn2A1p13Sg",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=Ofn2A1p13Sg",
+      "title": "Asian Guy Plays Drums On A Keyboard",
+      "key": "",
+      "description": "用键盘打鼓，键盘鼓演奏",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Ofn2A1p13Sg/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:C7HL5wYqAbU:1",
+      "platform": "youtube",
+      "videoId": "C7HL5wYqAbU",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=C7HL5wYqAbU",
+      "title": "Kodo - \"O-Daiko\" - HD (japanese drummers - Taiko - tambours géants Japon)",
+      "key": "",
+      "description": "鼓童大太鼓演出",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/C7HL5wYqAbU/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:WY5AXv89V1s:1",
+      "platform": "youtube",
+      "videoId": "WY5AXv89V1s",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=WY5AXv89V1s",
+      "title": "Taiko Taikai 2023 - 1st Place Performance",
+      "key": "",
+      "description": "太鼓比赛现场演出",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/WY5AXv89V1s/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:NCnoDfOuIKY:1",
+      "platform": "youtube",
+      "videoId": "NCnoDfOuIKY",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=NCnoDfOuIKY",
+      "title": "Hayashi-Mamady duo. Grandmasters Mamady Keita (djembeföla) and Eitetsu Hayashi (taiko soloist)",
+      "key": "",
+      "description": "非洲手鼓与日本太鼓对奏",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/NCnoDfOuIKY/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:-SoJ_QzOW3g:1",
+      "platform": "youtube",
+      "videoId": "-SoJ_QzOW3g",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=-SoJ_QzOW3g",
+      "title": "MIDDLE EASTERN RHYTHMS | SAIDI 4/4 🎶Listen, Dance & Play + 30min",
+      "key": "",
+      "description": "Saidi 4/4 中东节奏，约半小时",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/-SoJ_QzOW3g/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:3FHDajmcx7o:1",
+      "platform": "youtube",
+      "videoId": "3FHDajmcx7o",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=3FHDajmcx7o",
+      "title": "Okura Shonosuke plays tsuzumi at the Peace Pagoda in NY",
+      "key": "",
+      "description": "日本鼓（tsuzumi）演奏",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/3FHDajmcx7o/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:wWUFXBvMauk:1",
+      "platform": "youtube",
+      "videoId": "wWUFXBvMauk",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=wWUFXBvMauk",
+      "title": "hybrid drummer solo set",
+      "key": "",
+      "description": "混合鼓独奏，25:09 现场",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/wWUFXBvMauk/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:Gn3XvhcP_wQ:1",
+      "platform": "youtube",
+      "videoId": "Gn3XvhcP_wQ",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=Gn3XvhcP_wQ",
+      "title": "After cooking",
+      "key": "",
+      "description": "After cooking 鼓演出素材",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Gn3XvhcP_wQ/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:1GQnW8agQ9Y:1",
+      "platform": "youtube",
+      "videoId": "1GQnW8agQ9Y",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=1GQnW8agQ9Y",
+      "title": "140 bpm techno beat",
+      "key": "",
+      "description": "Techno 节拍，140 BPM 底床",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/1GQnW8agQ9Y/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:yPlNVobVMEY:1",
+      "platform": "youtube",
+      "videoId": "yPlNVobVMEY",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=yPlNVobVMEY",
+      "title": "160 bpm techno beat",
+      "key": "",
+      "description": "Techno 节拍，160 BPM 底床",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/yPlNVobVMEY/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:wvEp2DQEDik:1",
+      "platform": "youtube",
+      "videoId": "wvEp2DQEDik",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=wvEp2DQEDik",
+      "title": "viking drum",
+      "key": "Dm",
+      "description": "维京风鼓乐，Dm 调性素材",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/wvEp2DQEDik/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:TqtJmf46GpQ:1",
+      "platform": "youtube",
+      "videoId": "TqtJmf46GpQ",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=TqtJmf46GpQ",
+      "title": "1hour djembe",
+      "key": "",
+      "description": "Djembe 手鼓，1 小时节奏底床",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/TqtJmf46GpQ/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:cMnVaEJ_rIY:1",
+      "platform": "youtube",
+      "videoId": "cMnVaEJ_rIY",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=cMnVaEJ_rIY",
+      "title": "Big Fat Buchla 200e Fun",
+      "key": "",
+      "description": "模块合成器演示，可当音景参考",
+      "categoryIds": [
+        "crate-b5a337cd"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/cMnVaEJ_rIY/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:irE4eUH4SYE:1",
+      "platform": "youtube",
+      "videoId": "irE4eUH4SYE",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=irE4eUH4SYE",
+      "title": "ROLAND SOUND CANVAS SC 88Pro",
+      "key": "",
+      "description": "经典MIDI音源演示",
+      "categoryIds": [
+        "crate-b5a337cd"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/irE4eUH4SYE/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:vaG5tVnpkwc:1",
+      "platform": "youtube",
+      "videoId": "vaG5tVnpkwc",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=vaG5tVnpkwc",
+      "title": "Tape Bowing Ensemble - Open Reel Ensemble",
+      "key": "",
+      "description": "开盘磁带弓奏，机械弦乐质感",
+      "categoryIds": [
+        "crate-b5a337cd"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/vaG5tVnpkwc/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:ab_DGcXSnZ8:1",
+      "platform": "youtube",
+      "videoId": "ab_DGcXSnZ8",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=ab_DGcXSnZ8",
+      "title": "Karta - Generative Modular Sounds",
+      "key": "",
+      "description": "30分钟生成式模块音景",
+      "categoryIds": [
+        "crate-b5a337cd"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ab_DGcXSnZ8/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:wQyHPJ56aNg:1",
+      "platform": "youtube",
+      "videoId": "wQyHPJ56aNg",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=wQyHPJ56aNg",
+      "title": "Solar 42F synth - Cinematic performance",
+      "key": "E♭",
+      "description": "电影感合成器现场，可当Pad",
+      "categoryIds": [
+        "crate-b5a337cd"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/wQyHPJ56aNg/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:HmoUSSVSV7I:1",
+      "platform": "youtube",
+      "videoId": "HmoUSSVSV7I",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=HmoUSSVSV7I",
+      "title": "Pipe Dream (Animusic) - Remastered 4K 60FPS",
+      "key": "",
+      "description": "动画机械乐器，多乐器编排",
+      "categoryIds": [
+        "crate-b5a337cd"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/HmoUSSVSV7I/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:kRfwyWITVoY:1",
+      "platform": "youtube",
+      "videoId": "kRfwyWITVoY",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=kRfwyWITVoY",
+      "title": "Khaled Siddiq - Perfect",
+      "key": "",
+      "description": "干净R&B人声",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/kRfwyWITVoY/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:uQ-mRuaB3Xo:1",
+      "platform": "youtube",
+      "videoId": "uQ-mRuaB3Xo",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=uQ-mRuaB3Xo",
+      "title": "Acapella - LSD, XTC, Whatever",
+      "key": "",
+      "description": "迷幻系人声",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/uQ-mRuaB3Xo/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:hhbFJeSp1dw:1",
+      "platform": "youtube",
+      "videoId": "hhbFJeSp1dw",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=hhbFJeSp1dw",
+      "title": "DONDADA Freestyle",
+      "key": "",
+      "description": "美式freestyle",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/hhbFJeSp1dw/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:QxqAcYcSP78:1",
+      "platform": "youtube",
+      "videoId": "QxqAcYcSP78",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=QxqAcYcSP78",
+      "title": "AXL - Plano Noturno (Rap Nacional)",
+      "key": "",
+      "description": "葡语说唱",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/QxqAcYcSP78/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:Wr9m4NhcFjw:1",
+      "platform": "youtube",
+      "videoId": "Wr9m4NhcFjw",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=Wr9m4NhcFjw",
+      "title": "Gilbere Forte - Pray",
+      "key": "",
+      "description": "情绪型R&B",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Wr9m4NhcFjw/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:n2oQdE6Jlyc:1",
+      "platform": "youtube",
+      "videoId": "n2oQdE6Jlyc",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=n2oQdE6Jlyc",
+      "title": "Drake Acapella Freestyle (Westwood)",
+      "key": "",
+      "description": "经典Westwood freestyle",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/n2oQdE6Jlyc/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:7SOeYLLify8:1",
+      "platform": "youtube",
+      "videoId": "7SOeYLLify8",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=7SOeYLLify8",
+      "title": "Afghan Rap Acapella",
+      "key": "",
+      "description": "达里语/普什图语说唱",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/7SOeYLLify8/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:0kbJ6xvMPpQ:1",
+      "platform": "youtube",
+      "videoId": "0kbJ6xvMPpQ",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=0kbJ6xvMPpQ",
+      "title": "Flow Dan - Grime",
+      "key": "",
+      "description": "UK Grime人声",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/0kbJ6xvMPpQ/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:fz7dQWYeW-w:1",
+      "platform": "youtube",
+      "videoId": "fz7dQWYeW-w",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=fz7dQWYeW-w",
+      "title": "Nas - Life's A Bitch",
+      "key": "",
+      "description": "经典东海岸",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/fz7dQWYeW-w/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:61lOg0nLEqQ:1",
+      "platform": "youtube",
+      "videoId": "61lOg0nLEqQ",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=61lOg0nLEqQ",
+      "title": "Rich Brian - dat $tick",
+      "key": "",
+      "description": "说唱人声，可与 Beat 拼接",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/61lOg0nLEqQ/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:lR2eM79ADFU:1",
+      "platform": "youtube",
+      "videoId": "lR2eM79ADFU",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=lR2eM79ADFU",
+      "title": "Cardi B - I Like It",
+      "key": "",
+      "description": "拉丁pop说唱",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/lR2eM79ADFU/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:bRtUgUO286I:1",
+      "platform": "youtube",
+      "videoId": "bRtUgUO286I",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=bRtUgUO286I",
+      "title": "Desiigner Freestyle (Westwood)",
+      "key": "",
+      "description": "Westwood freestyle，说唱人声",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/bRtUgUO286I/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:gSU21ju0VqI:1",
+      "platform": "youtube",
+      "videoId": "gSU21ju0VqI",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=gSU21ju0VqI",
+      "title": "F.O.B. Freestyle",
+      "key": "",
+      "description": "Freestyle 说唱人声",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/gSU21ju0VqI/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:0HVVKhawL8A:1",
+      "platform": "youtube",
+      "videoId": "0HVVKhawL8A",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=0HVVKhawL8A",
+      "title": "VIRT Freestyle",
+      "key": "",
+      "description": "Freestyle 说唱人声",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/0HVVKhawL8A/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:k-4HxjpjMXM:1",
+      "platform": "youtube",
+      "videoId": "k-4HxjpjMXM",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=k-4HxjpjMXM",
+      "title": "Eminem - CXVPHER Freestyle",
+      "key": "",
+      "description": "Eminem freestyle，说唱人声",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/k-4HxjpjMXM/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:0oifX9SpWfg:1",
+      "platform": "youtube",
+      "videoId": "0oifX9SpWfg",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=0oifX9SpWfg",
+      "title": "Big Moe - Acapella Freestyle",
+      "key": "",
+      "description": "南部流派",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/0oifX9SpWfg/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:5aAdskXDRx4:1",
+      "platform": "youtube",
+      "videoId": "5aAdskXDRx4",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=5aAdskXDRx4",
+      "title": "Lil Pump - Gucci Gang",
+      "key": "",
+      "description": "SoundCloud Rap",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/5aAdskXDRx4/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:LYZP8C-X1rk:1",
+      "platform": "youtube",
+      "videoId": "LYZP8C-X1rk",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=LYZP8C-X1rk",
+      "title": "Gwen Stefani - Spark The Fire",
+      "key": "",
+      "description": "流行跨界",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/LYZP8C-X1rk/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:3QVmc88QR60:1",
+      "platform": "youtube",
+      "videoId": "3QVmc88QR60",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=3QVmc88QR60",
+      "title": "Ati242 - Maybach (Vocals)",
+      "key": "",
+      "description": "独立人声素材，可叠 Beat",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/3QVmc88QR60/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:5gaQLlUPO4M:1",
+      "platform": "youtube",
+      "videoId": "5gaQLlUPO4M",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=5gaQLlUPO4M",
+      "title": "SM105 - Future Beat",
+      "key": "",
+      "description": "Future Beat",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/5gaQLlUPO4M/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:kyu9PySdEmY:1",
+      "platform": "youtube",
+      "videoId": "kyu9PySdEmY",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=kyu9PySdEmY",
+      "title": "PHONK TYPE BEAT",
+      "key": "",
+      "description": "Phonk",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/kyu9PySdEmY/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:liZti9NptRs:1",
+      "platform": "youtube",
+      "videoId": "liZti9NptRs",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=liZti9NptRs",
+      "title": "Freestyle Boom Bap Beat",
+      "key": "B♭m",
+      "description": "90s Boom Bap",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/liZti9NptRs/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:hUOkA3jouko:1",
+      "platform": "youtube",
+      "videoId": "hUOkA3jouko",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=hUOkA3jouko",
+      "title": "Jazz Beat (Dynamic)",
+      "key": "",
+      "description": "爵士",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/hUOkA3jouko/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:QSOiiV-qZD0:1",
+      "platform": "youtube",
+      "videoId": "QSOiiV-qZD0",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=QSOiiV-qZD0",
+      "title": "Dreams - Pop-Rap Type Beat",
+      "key": "",
+      "description": "Pop-rap 伴奏，可叠人声",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/QSOiiV-qZD0/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:yrsOBnzygDQ:1",
+      "platform": "youtube",
+      "videoId": "yrsOBnzygDQ",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=yrsOBnzygDQ",
+      "title": "That Good Feel Instrumental",
+      "key": "",
+      "description": "纯伴奏，可作说唱底床",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/yrsOBnzygDQ/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:qtxiZXnJvF4:1",
+      "platform": "youtube",
+      "videoId": "qtxiZXnJvF4",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=qtxiZXnJvF4",
+      "title": "HipHop Beat Instrumental 2019",
+      "key": "",
+      "description": "Hip-hop 纯伴奏",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/qtxiZXnJvF4/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:dA2JtU0ExBY:1",
+      "platform": "youtube",
+      "videoId": "dA2JtU0ExBY",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=dA2JtU0ExBY",
+      "title": "DISSOLVE - Dark Trap",
+      "key": "",
+      "description": "暗系Trap",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/dA2JtU0ExBY/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:vSUjQ_ZkzJ4:1",
+      "platform": "youtube",
+      "videoId": "vSUjQ_ZkzJ4",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=vSUjQ_ZkzJ4",
+      "title": "FREE BEAT - Smile (Playboi Carti type)",
+      "key": "",
+      "description": "Playboi Carti 风格伴奏",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/vSUjQ_ZkzJ4/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:QjMk1CcWiNY:1",
+      "platform": "youtube",
+      "videoId": "QjMk1CcWiNY",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=QjMk1CcWiNY",
+      "title": "136 BPM Trap Beat (Dark)",
+      "key": "",
+      "description": "暗系 Trap，136 BPM 底床",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/QjMk1CcWiNY/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:CAOAGIKYwuc:1",
+      "platform": "youtube",
+      "videoId": "CAOAGIKYwuc",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=CAOAGIKYwuc",
+      "title": "Lil Uzi Vert x Future Type Beat",
+      "key": "",
+      "description": "Lil Uzi Vert / Future 风格伴奏",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/CAOAGIKYwuc/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:mfr3oRx7y9E:1",
+      "platform": "youtube",
+      "videoId": "mfr3oRx7y9E",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=mfr3oRx7y9E",
+      "title": "(free) indie rock + alt pop type beat \"crash out\"",
+      "key": "",
+      "description": "独立摇滚 / 另类流行伴奏",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/mfr3oRx7y9E/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:kPYjwDnivPI:1",
+      "platform": "youtube",
+      "videoId": "kPYjwDnivPI",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=kPYjwDnivPI",
+      "title": "Minecraft Redstone Music: Mario Bros. 2 Main Theme",
+      "key": "",
+      "description": "红石电路演奏，机械感节奏",
+      "categoryIds": [
+        "crate-7ab59dc7"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/kPYjwDnivPI/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:04odbaK3eHk:1",
+      "platform": "youtube",
+      "videoId": "04odbaK3eHk",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=04odbaK3eHk",
+      "title": "Geller - Public Sounds [Summer 2025]",
+      "key": "",
+      "description": "Public Sounds 夏季场次，长段素材",
+      "categoryIds": [
+        "crate-7ab59dc7"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/04odbaK3eHk/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:dq7bcVVfnlw:1",
+      "platform": "youtube",
+      "videoId": "dq7bcVVfnlw",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=dq7bcVVfnlw&t=564s",
+      "title": "A major — Geller - Public Sounds [Winter 2026] (9:24–13:42)",
+      "key": "A",
+      "description": "用户指定片段；原视频 9:24–13:42；独立离线文件。",
+      "categoryIds": [
+        "crate-7ab59dc7",
+        "crate-a5b0eec5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/dq7bcVVfnlw/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:dvmSZWuRhBU:1",
+      "platform": "youtube",
+      "videoId": "dvmSZWuRhBU",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=dvmSZWuRhBU",
+      "title": "Making live dub techno is easy, actually",
+      "key": "",
+      "description": "Dub techno现场/教程，长时间节奏底",
+      "categoryIds": [
+        "crate-7ab59dc7"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/dvmSZWuRhBU/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:gy9cx9GFqU0:1",
+      "platform": "youtube",
+      "videoId": "gy9cx9GFqU0",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=gy9cx9GFqU0",
+      "title": "Hyperpop & Dubstep mix in an NYC Nail Shop",
+      "key": "",
+      "description": "Hyperpop/Dubstep长混音",
+      "categoryIds": [
+        "crate-7ab59dc7"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/gy9cx9GFqU0/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:S3TIJnbA0g8:1",
+      "platform": "youtube",
+      "videoId": "S3TIJnbA0g8",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=S3TIJnbA0g8",
+      "title": "TYTO | Nel Bosco | full session",
+      "key": "",
+      "description": "完整 session，约 19 分钟",
+      "categoryIds": [
+        "crate-7ab59dc7"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/S3TIJnbA0g8/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:kYxheEGl2oM:1",
+      "platform": "youtube",
+      "videoId": "kYxheEGl2oM",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=kYxheEGl2oM",
+      "title": "Patch Notes: Hélène Vogelsinger",
+      "key": "Am",
+      "description": "Patch Notes 现场，Am 调性素材",
+      "categoryIds": [
+        "crate-7ab59dc7"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/kYxheEGl2oM/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:-dvnCRevPGM:1",
+      "platform": "youtube",
+      "videoId": "-dvnCRevPGM",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=-dvnCRevPGM",
+      "title": "MPC girl",
+      "key": "Am",
+      "description": "MPC 演奏，Am 调性素材",
+      "categoryIds": [
+        "crate-7ab59dc7"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/-dvnCRevPGM/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:qwMZqALxPzk:1",
+      "platform": "youtube",
+      "videoId": "qwMZqALxPzk",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=qwMZqALxPzk",
+      "title": "MPC girl",
+      "key": "B♭m",
+      "description": "MPC 演奏，B♭m 调性素材",
+      "categoryIds": [
+        "crate-7ab59dc7"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/qwMZqALxPzk/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:o9zZ4Gj75xs:1",
+      "platform": "youtube",
+      "videoId": "o9zZ4Gj75xs",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=o9zZ4Gj75xs",
+      "title": "Windows96 - One Hundred Mornings",
+      "key": "",
+      "description": "Vaporwave/ambient，悠长漂浮",
+      "categoryIds": [
+        "crate-a5b0eec5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/o9zZ4Gj75xs/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:53I6fcFXqxo:1",
+      "platform": "youtube",
+      "videoId": "53I6fcFXqxo",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=53I6fcFXqxo",
+      "title": "A.G. Cook - Silver",
+      "key": "",
+      "description": "PC Music，玻璃质感",
+      "categoryIds": [
+        "crate-a5b0eec5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/53I6fcFXqxo/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:rCbKZOwlZvc:1",
+      "platform": "youtube",
+      "videoId": "rCbKZOwlZvc",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=rCbKZOwlZvc",
+      "title": "Autechre - Quaristice (full album)",
+      "key": "",
+      "description": "IDM，颗粒化、机械有机体",
+      "categoryIds": [
+        "crate-a5b0eec5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/rCbKZOwlZvc/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:e96GK50fVFM:1",
+      "platform": "youtube",
+      "videoId": "e96GK50fVFM",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=e96GK50fVFM",
+      "title": "Crystal Castles Live Looping",
+      "key": "",
+      "description": "多首混杂的现场循环拼贴",
+      "categoryIds": [
+        "crate-a5b0eec5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/e96GK50fVFM/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:diYG3w8oaWY:1",
+      "platform": "youtube",
+      "videoId": "diYG3w8oaWY",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=diYG3w8oaWY",
+      "title": "Improvisation 4: glitch beats",
+      "key": "",
+      "description": "Glitch，碎片节奏感",
+      "categoryIds": [
+        "crate-a5b0eec5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/diYG3w8oaWY/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:d0RMUqcbhmQ:1",
+      "platform": "youtube",
+      "videoId": "d0RMUqcbhmQ",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=d0RMUqcbhmQ",
+      "title": "AIMC 2023 – Algorave",
+      "key": "",
+      "description": "算法现场，代码生成音乐",
+      "categoryIds": [
+        "crate-a5b0eec5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/d0RMUqcbhmQ/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:Ru4Ukst8YLo:1",
+      "platform": "youtube",
+      "videoId": "Ru4Ukst8YLo",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=Ru4Ukst8YLo",
+      "title": "Live coding – Fantasie No. 0",
+      "key": "Cm",
+      "description": "钢琴 + 算法即兴",
+      "categoryIds": [
+        "crate-a5b0eec5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Ru4Ukst8YLo/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:l9BQ_KeSfW4:1",
+      "platform": "youtube",
+      "videoId": "l9BQ_KeSfW4",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=l9BQ_KeSfW4",
+      "title": "Aeolian Wind Harps (Mohican)",
+      "key": "",
+      "description": "户外风竖琴，低频持续",
+      "categoryIds": [
+        "crate-a5b0eec5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/l9BQ_KeSfW4/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:lWShKUPpaAw:1",
+      "platform": "youtube",
+      "videoId": "lWShKUPpaAw",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=lWShKUPpaAw",
+      "title": "Aeolian Harp",
+      "key": "",
+      "description": "干净、空旷",
+      "categoryIds": [
+        "crate-a5b0eec5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/lWShKUPpaAw/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:rmP5XaNYlkI:1",
+      "platform": "youtube",
+      "videoId": "rmP5XaNYlkI",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=rmP5XaNYlkI",
+      "title": "Wind Harp on the Irish Coast",
+      "key": "",
+      "description": "海风 + 竖琴",
+      "categoryIds": [
+        "crate-a5b0eec5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/rmP5XaNYlkI/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:CtzSm76ppS4:1",
+      "platform": "youtube",
+      "videoId": "CtzSm76ppS4",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=CtzSm76ppS4",
+      "title": "Aeolian Harp (室内)",
+      "key": "",
+      "description": "颗粒感更强",
+      "categoryIds": [
+        "crate-a5b0eec5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/CtzSm76ppS4/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:GMFPwB7g_18:1",
+      "platform": "youtube",
+      "videoId": "GMFPwB7g_18",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=GMFPwB7g_18",
+      "title": "Weird Russian Singer - Reversed",
+      "key": "",
+      "description": "反转人声，异质感强",
+      "categoryIds": [
+        "crate-a5b0eec5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/GMFPwB7g_18/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:iizN5YXY2e4:1",
+      "platform": "youtube",
+      "videoId": "iizN5YXY2e4",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=iizN5YXY2e4",
+      "title": "Biggie - Hypnotize Reversed",
+      "key": "",
+      "description": "说唱反转成音景",
+      "categoryIds": [
+        "crate-a5b0eec5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/iizN5YXY2e4/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:NmkG7gZDHpc:1",
+      "platform": "youtube",
+      "videoId": "NmkG7gZDHpc",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=NmkG7gZDHpc",
+      "title": "Uptown Funk - Reversed",
+      "key": "",
+      "description": "流行反转",
+      "categoryIds": [
+        "crate-a5b0eec5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/NmkG7gZDHpc/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:00O5bX8rpLk:1",
+      "platform": "youtube",
+      "videoId": "00O5bX8rpLk",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=00O5bX8rpLk",
+      "title": "DUNE Ambience for Work and Study",
+      "key": "Dm",
+      "description": "沙丘音景，3小时",
+      "categoryIds": [
+        "crate-a5b0eec5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/00O5bX8rpLk/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:G1xuZSP05Jo:1",
+      "platform": "youtube",
+      "videoId": "G1xuZSP05Jo",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=G1xuZSP05Jo",
+      "title": "Brian Eno, Laraaji - Ambient 3 : Meditations [Stretched]",
+      "key": "",
+      "description": "经典ambient，拉长版",
+      "categoryIds": [
+        "crate-a5b0eec5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/G1xuZSP05Jo/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:JzW572MsjyU:1",
+      "platform": "youtube",
+      "videoId": "JzW572MsjyU",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=JzW572MsjyU",
+      "title": "C# Minor Pad",
+      "key": "C#m",
+      "description": "合成器Pad，持续底床",
+      "categoryIds": [
+        "crate-a5b0eec5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/JzW572MsjyU/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:SbFrjq0COIY:1",
+      "platform": "youtube",
+      "videoId": "SbFrjq0COIY",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=SbFrjq0COIY",
+      "title": "Atmospheric Ambient Pad in C#/Db Minor",
+      "key": "C#m",
+      "description": "大气Pad",
+      "categoryIds": [
+        "crate-a5b0eec5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/SbFrjq0COIY/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:spnmSHQzOHo:1",
+      "platform": "youtube",
+      "videoId": "spnmSHQzOHo",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=spnmSHQzOHo",
+      "title": "Ambient PAD E - Worship Drone Pads",
+      "key": "E",
+      "description": "持续低频Drone",
+      "categoryIds": [
+        "crate-a5b0eec5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/spnmSHQzOHo/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:6NoZyEOttBw:1",
+      "platform": "youtube",
+      "videoId": "6NoZyEOttBw",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=6NoZyEOttBw",
+      "title": "RIVER’ - your eyes.",
+      "key": "",
+      "description": "RIVER’ 原创歌曲，词曲及演唱；4分36秒",
+      "categoryIds": [
+        "crate-06ef6c60"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/6NoZyEOttBw/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:sGUQyh-JdOI:1",
+      "platform": "youtube",
+      "videoId": "sGUQyh-JdOI",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=sGUQyh-JdOI",
+      "title": "Simon Le Garff - L'Orbrie de Nuit",
+      "key": "",
+      "description": "Simon Le Garff 作品，5分52秒；具体编制待试听",
+      "categoryIds": [
+        "crate-06ef6c60"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/sGUQyh-JdOI/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:hTWKbfoikeg:1",
+      "platform": "youtube",
+      "videoId": "hTWKbfoikeg",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=hTWKbfoikeg",
+      "title": "Nirvana - Smells Like Teen Spirit",
+      "key": "Fm",
+      "description": "完整摇滚歌曲，可单独放一首",
+      "categoryIds": [
+        "crate-06ef6c60"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/hTWKbfoikeg/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:td-e4i2BL_Q:1",
+      "platform": "youtube",
+      "videoId": "td-e4i2BL_Q",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=td-e4i2BL_Q",
+      "title": "Sticky Drama - Music Video",
+      "key": "",
+      "description": "完整歌曲 / MV，可单独放一首",
+      "categoryIds": [
+        "crate-06ef6c60"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/td-e4i2BL_Q/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:pryXW1noXpI:1",
+      "platform": "youtube",
+      "videoId": "pryXW1noXpI",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=pryXW1noXpI",
+      "title": "Raag Bihag · Madhuvanti Pal · Rudra Veena",
+      "key": "G",
+      "description": "Rudra Veena 演奏 Raga Bihag，约64分钟",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/pryXW1noXpI/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:oXBGZoBYaLY:1",
+      "platform": "youtube",
+      "videoId": "oXBGZoBYaLY",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=oXBGZoBYaLY",
+      "title": "Adèle & Zalem - Didgeridoo Duet",
+      "key": "",
+      "description": "低频持续音，和任何东西都能叠",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/oXBGZoBYaLY/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:EmGVCVpsQAE:1",
+      "platform": "youtube",
+      "videoId": "EmGVCVpsQAE",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=EmGVCVpsQAE",
+      "title": "Jaw's Harp Beatbox in Park Güell",
+      "key": "",
+      "description": "口弦琴，节奏颗粒感强",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/EmGVCVpsQAE/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:Byx_6cxulSo:1",
+      "platform": "youtube",
+      "videoId": "Byx_6cxulSo",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=Byx_6cxulSo",
+      "title": "TAEPYEONGSO - Korean Instrument",
+      "key": "",
+      "description": "嘹亮的传统管乐",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Byx_6cxulSo/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:ulGOaNHiAac:1",
+      "platform": "youtube",
+      "videoId": "ulGOaNHiAac",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=ulGOaNHiAac",
+      "title": "侗族大歌 - Dong Folk Ancestor Song",
+      "key": "",
+      "description": "多声部人声，厚重",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ulGOaNHiAac/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:uOkRdcTxZko:1",
+      "platform": "youtube",
+      "videoId": "uOkRdcTxZko",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=uOkRdcTxZko",
+      "title": "Kakatsitsi - Sweet (Live @ Eden Project)",
+      "key": "",
+      "description": "传统鼓乐现场",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/uOkRdcTxZko/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:UOpgS3JDs10:1",
+      "platform": "youtube",
+      "videoId": "UOpgS3JDs10",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=UOpgS3JDs10",
+      "title": "WANG Hua-de - Shu Qin Music",
+      "key": "Dm",
+      "description": "古琴，茶道音乐",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/UOpgS3JDs10/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:KU5jtaWyUho:1",
+      "platform": "youtube",
+      "videoId": "KU5jtaWyUho",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=KU5jtaWyUho",
+      "title": "Ddiddiroo Diroo Diroo - Pansori Version",
+      "key": "EbMajor",
+      "description": "盘索里",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/KU5jtaWyUho/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:xRTxf6FiVEI:1",
+      "platform": "youtube",
+      "videoId": "xRTxf6FiVEI",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=xRTxf6FiVEI",
+      "title": "Komungo Sanjo",
+      "key": "",
+      "description": "玄琴散调",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/xRTxf6FiVEI/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:xisfk_fS4Yo:1",
+      "platform": "youtube",
+      "videoId": "xisfk_fS4Yo",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=xisfk_fS4Yo",
+      "title": "Korean Traditional Music (Gyeongbok Palace)",
+      "key": "Cm",
+      "description": "景福宫传统音乐",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/xisfk_fS4Yo/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:gDK52jXG6zk:1",
+      "platform": "youtube",
+      "videoId": "gDK52jXG6zk",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=gDK52jXG6zk",
+      "title": "gamin's Piri [Sinawi]",
+      "key": "Cm",
+      "description": "觱篥，神위",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/gDK52jXG6zk/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:LIBO4MJ82Ws:1",
+      "platform": "youtube",
+      "videoId": "LIBO4MJ82Ws",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=LIBO4MJ82Ws",
+      "title": "The peaceful countryside of Mongolia",
+      "key": "C# Major",
+      "description": "蒙古田园音景",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/LIBO4MJ82Ws/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:p_5yt5IX38I:1",
+      "platform": "youtube",
+      "videoId": "p_5yt5IX38I",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=p_5yt5IX38I",
+      "title": "# Chinggis khaanii Magtaal - Batzorig Vaanchig",
+      "key": "Dm",
+      "description": "成吉思汗赞歌，演唱素材",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/p_5yt5IX38I/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:KaTSJa0_TW0:1",
+      "platform": "youtube",
+      "videoId": "KaTSJa0_TW0",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=KaTSJa0_TW0",
+      "title": "Didgeridoo Soundbath - Low C minor",
+      "key": "Bm/B",
+      "description": "迪吉里杜管冥想",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/KaTSJa0_TW0/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:BcElotwrZ8o:1",
+      "platform": "youtube",
+      "videoId": "BcElotwrZ8o",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=BcElotwrZ8o",
+      "title": "Chinese Guqin - Flowing Water 流水",
+      "key": "F",
+      "description": "古琴名曲",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/BcElotwrZ8o/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:528hWIzwsH0:1",
+      "platform": "youtube",
+      "videoId": "528hWIzwsH0",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=528hWIzwsH0",
+      "title": "Sangryeongsan for solo piri",
+      "key": "E",
+      "description": "觱篥独奏",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/528hWIzwsH0/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:DffyOpc2ecg:1",
+      "platform": "youtube",
+      "videoId": "DffyOpc2ecg",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=DffyOpc2ecg",
+      "title": "Tanpura (E Scale)",
+      "key": "E",
+      "description": "坦布拉持续音",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/DffyOpc2ecg/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:ziLSMGzxS_w:1",
+      "platform": "youtube",
+      "videoId": "ziLSMGzxS_w",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=ziLSMGzxS_w",
+      "title": "Namdo Sinawi",
+      "key": "",
+      "description": "南道神위即兴",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ziLSMGzxS_w/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:QPADyL89j-g:1",
+      "platform": "youtube",
+      "videoId": "QPADyL89j-g",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=QPADyL89j-g",
+      "title": "E Scale Tanpura + Tabla Teentaal",
+      "key": "E",
+      "description": "坦布拉+塔布拉，100BPM",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/QPADyL89j-g/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:kr8oRpA2SpE:1",
+      "platform": "youtube",
+      "videoId": "kr8oRpA2SpE",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=kr8oRpA2SpE",
+      "title": "Fela Kuti & Africa 70 - Pansa Pansa - FULL HD (Berlin 1978)",
+      "key": "",
+      "description": "Fela Kuti 与 Africa 70 乐队现场",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/kr8oRpA2SpE/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:WCpiD15zaYo:1",
+      "platform": "youtube",
+      "videoId": "WCpiD15zaYo",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=WCpiD15zaYo",
+      "title": "ابوعطا - کمانچه نوازی استاد لطفی - Maestro Mohammad Reza Lotfi",
+      "key": "",
+      "description": "卡曼恰弓弦乐演奏",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/WCpiD15zaYo/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:cIMKJ43TFLs:1",
+      "platform": "youtube",
+      "videoId": "cIMKJ43TFLs",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=cIMKJ43TFLs",
+      "title": "Özgür Baba - Dertli Dolap",
+      "key": "",
+      "description": "Dertli Dolap 演唱素材",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/cIMKJ43TFLs/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:avnczQDivAQ:1",
+      "platform": "youtube",
+      "videoId": "avnczQDivAQ",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=avnczQDivAQ",
+      "title": "1hr Mesmerizing Rubab Melodies for Mind and Soul",
+      "key": "",
+      "description": "Rubab 弹拨旋律，约 1 小时",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/avnczQDivAQ/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:7rLgAN-z8bo:1",
+      "platform": "youtube",
+      "videoId": "7rLgAN-z8bo",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=7rLgAN-z8bo",
+      "title": "苏格兰风笛",
+      "key": "B♭",
+      "description": "苏格兰风笛，持续管乐声部",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/7rLgAN-z8bo/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:GwcrZOZoBzo:1",
+      "platform": "youtube",
+      "videoId": "GwcrZOZoBzo",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=GwcrZOZoBzo",
+      "title": "风笛中世纪",
+      "key": "Am",
+      "description": "中世纪风笛，古风管乐",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/GwcrZOZoBzo/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:yG9ZX1FS20A:1",
+      "platform": "youtube",
+      "videoId": "yG9ZX1FS20A",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=yG9ZX1FS20A",
+      "title": "didgeridoo",
+      "key": "Dm / D",
+      "description": "Didgeridoo，低频持续音",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/yG9ZX1FS20A/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:lZ-6IwYIxxc:1",
+      "platform": "youtube",
+      "videoId": "lZ-6IwYIxxc",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=lZ-6IwYIxxc",
+      "title": "didgeridoo",
+      "key": "Em / E",
+      "description": "Didgeridoo，低频持续音",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/lZ-6IwYIxxc/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:6XfWr1_RpjY:1",
+      "platform": "youtube",
+      "videoId": "6XfWr1_RpjY",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=6XfWr1_RpjY",
+      "title": "choir male",
+      "key": "F#m",
+      "description": "男声合唱，多声部人声",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/6XfWr1_RpjY/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:MvKcBfRnUZs:1",
+      "platform": "youtube",
+      "videoId": "MvKcBfRnUZs",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=MvKcBfRnUZs",
+      "title": "choir male 2",
+      "key": "E♭m",
+      "description": "男声合唱，另一组人声素材",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/MvKcBfRnUZs/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:sTHNveCLCJ4:1",
+      "platform": "youtube",
+      "videoId": "sTHNveCLCJ4",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=sTHNveCLCJ4",
+      "title": "turkish",
+      "key": "Gm",
+      "description": "土耳其音乐，地域声部",
+      "categoryIds": [
+        "crate-bd0dcb41"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/sTHNveCLCJ4/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:GEdpSsj-FKQ:1",
+      "platform": "youtube",
+      "videoId": "GEdpSsj-FKQ",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=GEdpSsj-FKQ",
+      "title": "Oshaberi Doubutsu The Better One",
+      "key": "",
+      "description": "日本动物玩具",
+      "categoryIds": [
+        "crate-f83d4a58"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/GEdpSsj-FKQ/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:BueUSQ01RY8:1",
+      "platform": "youtube",
+      "videoId": "BueUSQ01RY8",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=BueUSQ01RY8",
+      "title": "YouTube chopping??? #flstudio",
+      "key": "",
+      "description": "YouTube 切片示例，声音拼接参考",
+      "categoryIds": [
+        "crate-f83d4a58"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/BueUSQ01RY8/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:KseaAHYYkBA:1",
+      "platform": "youtube",
+      "videoId": "KseaAHYYkBA",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=KseaAHYYkBA",
+      "title": "游泳系列教程1 跟我学蛙泳",
+      "key": "",
+      "description": "游泳教程",
+      "categoryIds": [
+        "crate-f83d4a58"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/KseaAHYYkBA/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:lz_7i9fORso:1",
+      "platform": "youtube",
+      "videoId": "lz_7i9fORso",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=lz_7i9fORso",
+      "title": "一定要成功 音圓 錄音錄影測試 NV-500 NV-480",
+      "key": "",
+      "description": "點歌機測試",
+      "categoryIds": [
+        "crate-f83d4a58"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/lz_7i9fORso/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:qPTd10946jo:1",
+      "platform": "youtube",
+      "videoId": "qPTd10946jo",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=qPTd10946jo",
+      "title": "German Cat Meme Original",
+      "key": "",
+      "description": "猫meme",
+      "categoryIds": [
+        "crate-f83d4a58"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/qPTd10946jo/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:LiT9xP-DVMo:1",
+      "platform": "youtube",
+      "videoId": "LiT9xP-DVMo",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=LiT9xP-DVMo",
+      "title": "Why are you gae? - YouTube Soundboard",
+      "key": "",
+      "description": "声音板素材",
+      "categoryIds": [
+        "crate-f83d4a58"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/LiT9xP-DVMo/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:D9pQuup1uyc:1",
+      "platform": "youtube",
+      "videoId": "D9pQuup1uyc",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=D9pQuup1uyc",
+      "title": "hornse ♫",
+      "key": "",
+      "description": "标题未说明声音类型，待试听",
+      "categoryIds": [
+        "crate-f83d4a58"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/D9pQuup1uyc/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:jcutNFPwXPE:1",
+      "platform": "youtube",
+      "videoId": "jcutNFPwXPE",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=jcutNFPwXPE",
+      "title": "Car Alarm (extended reprise)",
+      "key": "",
+      "description": "汽车警报主题，延长 reprise",
+      "categoryIds": [
+        "crate-f83d4a58"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/jcutNFPwXPE/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:BoNiEicd_oU:1",
+      "platform": "youtube",
+      "videoId": "BoNiEicd_oU",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=BoNiEicd_oU",
+      "title": "1 hour of silence occasionally broken up by random Michael Jackson noises",
+      "key": "",
+      "description": "长段静默，偶发人声插入",
+      "categoryIds": [
+        "crate-f83d4a58"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/BoNiEicd_oU/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:3MU_6BPKmBg:1",
+      "platform": "youtube",
+      "videoId": "3MU_6BPKmBg",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=3MU_6BPKmBg",
+      "title": "Left ear Mozart (2x speed) Right ear The Bible (Chinese) / (1h+ version) / With timestamps",
+      "key": "",
+      "description": "左右声道拼贴：莫扎特与中文读经",
+      "categoryIds": [
+        "crate-f83d4a58"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/3MU_6BPKmBg/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:Sd3hvhnd7YU:1",
+      "platform": "youtube",
+      "videoId": "Sd3hvhnd7YU",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=Sd3hvhnd7YU",
+      "title": "标题暂不可获取 · Sd3hvhnd7YU",
+      "key": "",
+      "description": "标题未获取，声音类型待确认",
+      "categoryIds": [
+        "crate-f83d4a58"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Sd3hvhnd7YU/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:YxK0Ux_s6C8:1",
+      "platform": "youtube",
+      "videoId": "YxK0Ux_s6C8",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=YxK0Ux_s6C8",
+      "title": "标题暂不可获取 · YxK0Ux_s6C8",
+      "key": "",
+      "description": "标题未获取，声音类型待确认",
+      "categoryIds": [
+        "crate-f83d4a58"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/YxK0Ux_s6C8/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:-eQpgvfqLRA:1",
+      "platform": "youtube",
+      "videoId": "-eQpgvfqLRA",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=-eQpgvfqLRA",
+      "title": "标题暂不可获取 · -eQpgvfqLRA",
+      "key": "",
+      "description": "标题未获取，声音类型待确认",
+      "categoryIds": [
+        "crate-f83d4a58"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/-eQpgvfqLRA/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:pgdXErZIo4U:1",
+      "platform": "youtube",
+      "videoId": "pgdXErZIo4U",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=pgdXErZIo4U",
+      "title": "标题暂不可获取 · pgdXErZIo4U",
+      "key": "",
+      "description": "标题未获取，声音类型待确认",
+      "categoryIds": [
+        "crate-f83d4a58"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/pgdXErZIo4U/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:FiWUsKtADmw:1",
+      "platform": "youtube",
+      "videoId": "FiWUsKtADmw",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=FiWUsKtADmw",
+      "title": "标题暂不可获取 · FiWUsKtADmw",
+      "key": "",
+      "description": "标题未获取，声音类型待确认",
+      "categoryIds": [
+        "crate-f83d4a58"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/FiWUsKtADmw/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:9ZXgCXB-8Qk:1",
+      "platform": "youtube",
+      "videoId": "9ZXgCXB-8Qk",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=9ZXgCXB-8Qk",
+      "title": "标题暂不可获取 · 9ZXgCXB-8Qk",
+      "key": "",
+      "description": "标题未获取，声音类型待确认",
+      "categoryIds": [
+        "crate-f83d4a58"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/9ZXgCXB-8Qk/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:ZXJWO2FQ16c:1",
+      "platform": "youtube",
+      "videoId": "ZXJWO2FQ16c",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=ZXJWO2FQ16c",
+      "title": "Steve Reich - Music for 18 Musicians",
+      "key": "D",
+      "description": "极简主义，脉冲感强，长时间叠加不累",
+      "categoryIds": [
+        "crate-5f07f706"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ZXJWO2FQ16c/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:CpwKka2ZQ_Q:1",
+      "platform": "youtube",
+      "videoId": "CpwKka2ZQ_Q",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=CpwKka2ZQ_Q",
+      "title": "Telemann - Fantasia No.10 (Flute)",
+      "key": "F#m",
+      "description": "巴洛克长笛独奏，单线条干净",
+      "categoryIds": [
+        "crate-5f07f706"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/CpwKka2ZQ_Q/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:qIEuDf7j0ek:1",
+      "platform": "youtube",
+      "videoId": "qIEuDf7j0ek",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=qIEuDf7j0ek",
+      "title": "ETHEREAL - Improvised Solo in F# Minor",
+      "key": "F#m",
+      "description": "即兴单音，空间感强",
+      "categoryIds": [
+        "crate-5f07f706"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/qIEuDf7j0ek/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:HPPzQgTaLbo:1",
+      "platform": "youtube",
+      "videoId": "HPPzQgTaLbo",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=HPPzQgTaLbo",
+      "title": "Nils Frahm - Live at Philharmonie de Paris",
+      "key": "",
+      "description": "ARTE Concert，完整现场",
+      "categoryIds": [
+        "crate-5f07f706"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/HPPzQgTaLbo/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:97xlBipnzG8:1",
+      "platform": "youtube",
+      "videoId": "97xlBipnzG8",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=97xlBipnzG8",
+      "title": "Heifetz - Vitali `Chaconne` with organ",
+      "key": "",
+      "description": "小提琴与管风琴，古典声部叠加",
+      "categoryIds": [
+        "crate-5f07f706"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/97xlBipnzG8/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:LDls7N3RzrI:1",
+      "platform": "youtube",
+      "videoId": "LDls7N3RzrI",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=LDls7N3RzrI",
+      "title": "Boogie Blues Backing Track",
+      "key": "G",
+      "description": "节奏强劲",
+      "categoryIds": [
+        "crate-c68896c8"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/LDls7N3RzrI/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:GxdAqDC9sHw:1",
+      "platform": "youtube",
+      "videoId": "GxdAqDC9sHw",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=GxdAqDC9sHw",
+      "title": "Beautiful Guitar Loop",
+      "key": "",
+      "description": "吉他循环，温暖",
+      "categoryIds": [
+        "crate-c68896c8"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/GxdAqDC9sHw/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:OXMqBWJ-zjI:1",
+      "platform": "youtube",
+      "videoId": "OXMqBWJ-zjI",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=OXMqBWJ-zjI",
+      "title": "Solo Guitar Improvisation Blues in G",
+      "key": "G",
+      "description": "吉他即兴",
+      "categoryIds": [
+        "crate-c68896c8"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/OXMqBWJ-zjI/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:Zf-xMo69Rjg:1",
+      "platform": "youtube",
+      "videoId": "Zf-xMo69Rjg",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=Zf-xMo69Rjg",
+      "title": "Floyd Blues - Guitar Jam in G",
+      "key": "G",
+      "description": "吉他即兴",
+      "categoryIds": [
+        "crate-c68896c8"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Zf-xMo69Rjg/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:VAZLd9E1gQQ:1",
+      "platform": "youtube",
+      "videoId": "VAZLd9E1gQQ",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=VAZLd9E1gQQ",
+      "title": "Harmonica Improvisation - Blues in G",
+      "key": "G",
+      "description": "口琴",
+      "categoryIds": [
+        "crate-c68896c8"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/VAZLd9E1gQQ/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:klCPdYfbO7o:1",
+      "platform": "youtube",
+      "videoId": "klCPdYfbO7o",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=klCPdYfbO7o",
+      "title": "Sax Loop",
+      "key": "",
+      "description": "萨克斯循环",
+      "categoryIds": [
+        "crate-c68896c8"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/klCPdYfbO7o/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:kiXMqWh4JuA:1",
+      "platform": "youtube",
+      "videoId": "kiXMqWh4JuA",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=kiXMqWh4JuA",
+      "title": "12 Bar Blues in D - Alto Saxophone",
+      "key": "D",
+      "description": "萨克斯独奏",
+      "categoryIds": [
+        "crate-c68896c8"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/kiXMqWh4JuA/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:bPyZanpmwC4:1",
+      "platform": "youtube",
+      "videoId": "bPyZanpmwC4",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=bPyZanpmwC4",
+      "title": "How to play Jazzy Blues in G (Flute)",
+      "key": "G",
+      "description": "长笛",
+      "categoryIds": [
+        "crate-c68896c8"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/bPyZanpmwC4/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:c0Sz130X_I4:1",
+      "platform": "youtube",
+      "videoId": "c0Sz130X_I4",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=c0Sz130X_I4",
+      "title": "Jazz Trumpet Improv - G Blues",
+      "key": "G",
+      "description": "小号",
+      "categoryIds": [
+        "crate-c68896c8"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/c0Sz130X_I4/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:z5ZAffmpMtw:1",
+      "platform": "youtube",
+      "videoId": "z5ZAffmpMtw",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=z5ZAffmpMtw",
+      "title": "Learn G Blues Scale on Trumpet",
+      "key": "G",
+      "description": "小号练习风格",
+      "categoryIds": [
+        "crate-c68896c8"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/z5ZAffmpMtw/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:Za7R4_qFr7M:1",
+      "platform": "youtube",
+      "videoId": "Za7R4_qFr7M",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=Za7R4_qFr7M",
+      "title": "Blues Improv Bass Solo in G",
+      "key": "G",
+      "description": "贝斯独奏",
+      "categoryIds": [
+        "crate-c68896c8"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Za7R4_qFr7M/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:oBRSAAz70HU:1",
+      "platform": "youtube",
+      "videoId": "oBRSAAz70HU",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=oBRSAAz70HU",
+      "title": "River' x FootboxG - GASOLINE (Halftime DnB Beatbox)",
+      "key": "",
+      "description": "双人 Beatbox，Halftime DnB；1分54秒",
+      "categoryIds": [
+        "crate-11a038be"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/oBRSAAz70HU/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:NMefxohehPQ:1",
+      "platform": "youtube",
+      "videoId": "NMefxohehPQ",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=NMefxohehPQ",
+      "title": "MEUTE - Slip (Deadmau5 rework)",
+      "key": "",
+      "description": "MEUTE 改编 deadmau5 作品，7分14秒",
+      "categoryIds": [
+        "crate-11a038be"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/NMefxohehPQ/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:X-yfkDvB2BI:1",
+      "platform": "youtube",
+      "videoId": "X-yfkDvB2BI",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=X-yfkDvB2BI",
+      "title": "Metal Guitar Backing Track in C Minor",
+      "key": "Cm",
+      "description": "Metal吉他",
+      "categoryIds": [
+        "crate-11a038be"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/X-yfkDvB2BI/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:AcG17zKWMl4:1",
+      "platform": "youtube",
+      "videoId": "AcG17zKWMl4",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=AcG17zKWMl4",
+      "title": "Hard Dance / High NRG / Freeform EDM Rave Mix",
+      "key": "",
+      "description": "Rave Mix",
+      "categoryIds": [
+        "crate-11a038be"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/AcG17zKWMl4/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:2aSMbaj0ssg:1",
+      "platform": "youtube",
+      "videoId": "2aSMbaj0ssg",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=2aSMbaj0ssg",
+      "title": "120 bpm EuroRave New Style",
+      "key": "",
+      "description": "EuroRave",
+      "categoryIds": [
+        "crate-11a038be"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/2aSMbaj0ssg/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:iS5uam1Y2kc:1",
+      "platform": "youtube",
+      "videoId": "iS5uam1Y2kc",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=iS5uam1Y2kc",
+      "title": "Disco / Psytrance",
+      "key": "",
+      "description": "Psytrance",
+      "categoryIds": [
+        "crate-11a038be"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/iS5uam1Y2kc/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:wo4GX9XE-oM:1",
+      "platform": "youtube",
+      "videoId": "wo4GX9XE-oM",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=wo4GX9XE-oM",
+      "title": "Psytrance for Beginners",
+      "key": "",
+      "description": "Psytrance",
+      "categoryIds": [
+        "crate-11a038be"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/wo4GX9XE-oM/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:dLB0Xm01hlE:1",
+      "platform": "youtube",
+      "videoId": "dLB0Xm01hlE",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=dLB0Xm01hlE",
+      "title": "Goa Trance for Exercise",
+      "key": "",
+      "description": "Goa Trance",
+      "categoryIds": [
+        "crate-11a038be"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/dLB0Xm01hlE/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:2qlFLO1aZSg:1",
+      "platform": "youtube",
+      "videoId": "2qlFLO1aZSg",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=2qlFLO1aZSg",
+      "title": "The East Neuk of Fife",
+      "key": "",
+      "description": "苏格兰民谣跑高速",
+      "categoryIds": [
+        "crate-11a038be"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/2qlFLO1aZSg/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:hAc9i-WEIcQ:1",
+      "platform": "youtube",
+      "videoId": "hAc9i-WEIcQ",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=hAc9i-WEIcQ",
+      "title": "Best Of HARD TECHNO 2025 | FULL SET MIX | [4K] NICO MORENO, CHARLOTTE DE WITTE, AMELIE LENS, NOVAH",
+      "key": "",
+      "description": "Hard Techno 长混音，30 分钟",
+      "categoryIds": [
+        "crate-11a038be"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/hAc9i-WEIcQ/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:qLrnkK2YEcE:1",
+      "platform": "youtube",
+      "videoId": "qLrnkK2YEcE",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=qLrnkK2YEcE",
+      "title": "The Avalanches - Frontier Psychiatrist (Official HD Video)",
+      "key": "",
+      "description": "720p 完整视频",
+      "categoryIds": [
+        "crate-91337ec8"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/qLrnkK2YEcE/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:eu0KsZ_MVBc:1",
+      "platform": "youtube",
+      "videoId": "eu0KsZ_MVBc",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=eu0KsZ_MVBc",
+      "title": "The Avalanches - Because I'm Me (Official Video)",
+      "key": "",
+      "description": "720p 完整视频",
+      "categoryIds": [
+        "crate-91337ec8"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/eu0KsZ_MVBc/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:GWGW62XvYGM:1",
+      "platform": "youtube",
+      "videoId": "GWGW62XvYGM",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=GWGW62XvYGM",
+      "title": "Pashanim- Sommergewitter | Vocals",
+      "key": "B",
+      "description": "Vocals · 720p 完整视频",
+      "categoryIds": [
+        "crate-310a9922"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/GWGW62XvYGM/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:AoJAs9jNg3k:1",
+      "platform": "youtube",
+      "videoId": "AoJAs9jNg3k",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=AoJAs9jNg3k",
+      "title": "Adam Deitch - Drum Solo - Drumtrainer Online",
+      "key": "",
+      "description": "Funk 鼓独奏，完整现场",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/AoJAs9jNg3k/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:j3ZxOYmjIuk:1",
+      "platform": "youtube",
+      "videoId": "j3ZxOYmjIuk",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=j3ZxOYmjIuk",
+      "title": "Colin Stetson and Sarah Neufeld - The Rest of Us",
+      "key": "Cm",
+      "description": "萨克斯与小提琴二重奏，The Rest of Us，2015现场；用户特别认可",
+      "categoryIds": [
+        "crate-5f07f706"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/j3ZxOYmjIuk/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:_xvJmA5ZVCQ:1",
+      "platform": "youtube",
+      "videoId": "_xvJmA5ZVCQ",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=_xvJmA5ZVCQ",
+      "title": "Larnell Lewis' EPIC Drum Solo",
+      "key": "",
+      "description": "Drumeo 鼓独奏，完整现场",
+      "categoryIds": [
+        "crate-2f4941f5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/_xvJmA5ZVCQ/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:Kyez8QxweSc:1",
+      "platform": "youtube",
+      "videoId": "Kyez8QxweSc",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=Kyez8QxweSc",
+      "title": "Loscil - Endless Falls",
+      "key": "F",
+      "description": "雨声与持续音、弦乐缓慢展开；用户认可的 Pad。",
+      "categoryIds": [
+        "crate-a5b0eec5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Kyez8QxweSc/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:Qqi_EZ0DgrA:1",
+      "platform": "youtube",
+      "videoId": "Qqi_EZ0DgrA",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=Qqi_EZ0DgrA&t=0s",
+      "title": "Nala Sinephro - Space 1",
+      "key": "Dm",
+      "description": "原视频 00:00–04:08；离线版只保留此曲。",
+      "categoryIds": [
+        "crate-a5b0eec5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Qqi_EZ0DgrA/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:Qqi_EZ0DgrA:8",
+      "platform": "youtube",
+      "videoId": "Qqi_EZ0DgrA",
+      "part": 8,
+      "url": "https://www.youtube.com/watch?v=Qqi_EZ0DgrA&t=1607s",
+      "title": "Nala Sinephro - Space 8",
+      "key": "Fm",
+      "description": "原视频 26:47–44:22；离线版只保留此曲。",
+      "categoryIds": [
+        "crate-a5b0eec5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Qqi_EZ0DgrA/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:a9bRajLEYSo:1",
+      "platform": "youtube",
+      "videoId": "a9bRajLEYSo",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=a9bRajLEYSo",
+      "title": "when flow® live in GuiZhou, China",
+      "key": "E",
+      "description": "前段较自由，后段有节拍；用户认可。",
+      "categoryIds": [
+        "crate-7ab59dc7"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/a9bRajLEYSo/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:zfpSn7ZYC0A:1",
+      "platform": "youtube",
+      "videoId": "zfpSn7ZYC0A",
+      "part": 1,
+      "url": "https://www.youtube.com/watch?v=zfpSn7ZYC0A",
+      "title": "BINKBEATS - Little Nerves feat. Niels Broos",
+      "key": "Em",
+      "description": "用户认可的稳定节拍现场；BPM 未核实。",
+      "categoryIds": [
+        "crate-7ab59dc7"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/zfpSn7ZYC0A/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    },
+    {
+      "id": "youtube:dq7bcVVfnlw:2",
+      "platform": "youtube",
+      "videoId": "dq7bcVVfnlw",
+      "part": 2,
+      "url": "https://www.youtube.com/watch?v=dq7bcVVfnlw&t=822s",
+      "title": "B major — Geller - Public Sounds [Winter 2026] (13:42–19:55)",
+      "key": "B",
+      "description": "用户指定片段；原视频 13:42–19:55；独立离线文件。",
+      "categoryIds": [
+        "crate-7ab59dc7",
+        "crate-a5b0eec5"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/dq7bcVVfnlw/hqdefault.jpg",
+      "duration": null,
+      "available": true
+    }
+  ]
+}
